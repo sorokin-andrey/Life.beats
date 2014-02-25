@@ -1,0 +1,13 @@
+bin
+gen
+out
+.idea
+*.iml
+*.ipr
+*.iws
+.DS_store
+release
+builds
+javadoc
+*.xml
+*.number
